@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+cards:
+  message: "This is contact details for cards ms :- for local server"
+  contactDetails:
+    name: "Bob Carter developer"
+    email: "development@sdfds.com"
+  onCallSupport:
+    - (124)456587
+    - (576)546678

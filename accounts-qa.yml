@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "This is contact details for accounts ms :- for test qa server"
+  contactDetails:
+    name: "Ragini Sharma qa"
+    email: "qa@sdfds.com"
+  onCallSupport:
+    - (234)565847
+    - (678)463268

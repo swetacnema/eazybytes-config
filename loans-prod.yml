@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "This is contact details for loans ms :- for production server"
+  contactDetails:
+    name: "Ema Watsonji Product Owner"
+    email: "prod@sdfds.com"
+  onCallSupport:
+    - (124)456587
+    - (576)546678
+

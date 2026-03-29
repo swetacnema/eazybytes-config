@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "This is contact details for cards ms :- for production server"
+  contactDetails:
+    name: "Quershiji zuned PROD"
+    email: "prod@sdfds.com"
+  onCallSupport:
+    - (124)456587
+    - (576)546678

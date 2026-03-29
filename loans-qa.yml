@@ -1,0 +1,12 @@
+build:
+  version: "2.0"
+
+loans:
+  message: "This is contact details for loans ms :- for QA server"
+  contactDetails:
+    name: "Rose Johnson QA"
+    email: "qa@sdfds.com"
+  onCallSupport:
+    - (124)456587
+    - (576)546678
+
