@@ -4,7 +4,7 @@ build:
 accounts:
   message: "This is contact details for accounts ms :- for Production server"
   contactDetails:
-    name: "Shikhaji jain Production"
+    name: "Chanrika jain Production"
     email: "prod@sdfds.com"
   onCallSupport:
     - (456)653847
