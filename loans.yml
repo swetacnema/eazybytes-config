@@ -4,7 +4,7 @@ build:
 loans:
   message: "This is contact details for loans ms :- for local server"
   contactDetails:
-    name: "Lobesco Marker developer"
+    name: "Lob Marker developer"
     email: "development@sdfds.com"
   onCallSupport:
     - (124)456587
