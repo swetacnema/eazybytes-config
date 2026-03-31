@@ -4,7 +4,7 @@ build:
 accounts:
   message: "This is contact details for accounts ms :- for local server"
   contactDetails:
-    name: "John Doe developer"
+    name: "Johnethan Damar developer"
     email: "development@sdfds.com"
   onCallSupport:
     - (124)456587
