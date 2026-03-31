@@ -4,7 +4,7 @@ build:
 cards:
   message: "This is contact details for cards ms :- for local server"
   contactDetails:
-    name: "Bobino Carter developer"
+    name: "Bob Carter developer"
     email: "development@sdfds.com"
   onCallSupport:
     - (124)456587
