@@ -4,7 +4,7 @@ build:
 cards:
   message: "This is contact details for cards ms :- for production server"
   contactDetails:
-    name: "Quershiji Sarkar PROD"
+    name: "Quershiji Khureshi PROD"
     email: "prod@sdfds.com"
   onCallSupport:
     - (124)456587
