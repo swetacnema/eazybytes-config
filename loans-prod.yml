@@ -4,7 +4,7 @@ build:
 loans:
   message: "This is contact details for loans ms :- for production server"
   contactDetails:
-    name: "Harry Potter Product Owner"
+    name: "Ronald Weisly Product Owner"
     email: "prod@sdfds.com"
   onCallSupport:
     - (124)456587
